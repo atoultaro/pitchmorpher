@@ -1,4 +1,4 @@
-# 🎛️ PitchMorpher – Product Requirements Document (PRD)
+# 🎛️ PitchMorpher
 
 ## 1. Purpose
 
@@ -83,9 +83,3 @@ PitchMorpher is a plugin that provides musicians, producers, and sound designers
 | 5. Beta Testing | Private testers + feedback | 2 weeks |
 | 6. Launch | Upload to marketplaces | 1 week |
 """
-
-# Save the PRD to a markdown file
-file_path = Path("/mnt/data/PitchMorpher_PRD.md")
-file_path.write_text(prd_content)
-
-file_path.name
